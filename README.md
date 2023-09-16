@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindos ao meu github 🥀
 
-<!--
-**suelencristinagibbert9/suelencristinagibbert9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é:
+**Suelen Cristina Gibbert** 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://cursos.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou cursando o **Ensino Médio (1º A)**
+
+- **Entre em contato pelo email:**
+  
+- suelen.gibbert@escola.pr.gov.br
+
+- @suelengibbert4
+  ![](https://media.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
+ 
