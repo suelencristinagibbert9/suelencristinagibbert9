@@ -7,6 +7,8 @@ Meu nome é:
 
 - Estou cursando o **Ensino Médio (1º A)**
 
+- Estudo no C.E.C Alfredo Greipel Júnior. 🌟
+
 - **Entre em contato pelo email:**
   
 - suelen.gibbert@escola.pr.gov.br
